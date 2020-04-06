@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Matrixinator</string>
+    <string name="calculation_prompt">Choose a Calculation</string>
+
+    <string-array name="calculations_array">
+        <item>C=A+B</item>
+        <item>C=A-B</item>
+        <item>C=A*B</item>
+        <item>C=A*B^(-1)</item>
+        <item>C=A^(-1)*B</item>
+        <item>C=A·B</item>
+        <item>C=A×B</item>
+        <item>C=RREF(A)</item>
+        <item>C|D=RREF(A|B)</item>
+        <item>C=A^(-1)</item>
+        <item>C=AB(A^-1)</item>
+        <item>C=A^T</item>
+        <item>Det(A)</item>
+        <item>Col(A)</item>
+        <item>Row(A)</item>
+        <item>Null(A)</item>
+        <item>lnl(A)</item>
+    </string-array>
+</resources>
